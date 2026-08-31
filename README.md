@@ -1,5 +1,9 @@
 # `jakoben-akil`
 
+<p align="center">
+  <img src="assets/banners/jakoben_akil_banner.jpg" alt="Jakoben Akıl - Tarih ve Arşiv Çalışmaları" width="100%">
+</p>
+
 [![Lisans: CC-BY-4.0](https://img.shields.io/badge/Lisans-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Dokümantasyon: Açık Arşiv](https://img.shields.io/badge/Dok%C3%BCmantasyon-A%C3%A7%C4%B1k%20Tarih%20Ar%C5%9Fivi-darkgreen.svg)](#)
 [![Metodoloji: Karşılaştırmalı Tarih](https://img.shields.io/badge/Metodoloji-Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1%20Tarih%20%26%20Dekonstr%C3%BCksiyon-orange.svg)](#)
@@ -150,6 +154,10 @@ jakoben-akil/
 
 ## 🔬 Yeni Tarihsel Araştırma Alanları ve Tematik Dosyalar
 
+<p align="center">
+  <img src="assets/banners/jakoben_harp_ve_devrim.jpg" alt="Harp Stratejisi, Başkomutanlık ve Devrimci İdare" width="100%">
+</p>
+
 Bu bölümde, Cumhuriyet dönemi Jakoben aklının yakın dönem akademik çalışmalara konu olan altı temel ameliyat sahası derinlemesine incelenmektedir.
 
 ---
@@ -246,6 +254,10 @@ Mustafa Kemal Atatürk'ün dış politika stratejisi romantik bir pasifizm deği
 ---
 
 ## ⚖️ Çok Boyutlu Tarihsel Perspektifler ve Zengin Alıntılar Arşivi
+
+<p align="center">
+  <img src="assets/banners/jakoben_perspektif_banner.jpg" alt="İhtilal Hukuku, Aydınlanma ve Çatışan Perspektifler" width="100%">
+</p>
 
 Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İslamcı/muhafazakâr aydınları, sol/sosyalist teorisyenleri ve uluslararası tarihçilerin doğrudan kendi eserlerinden derlenmiştir.
 
