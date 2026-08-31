@@ -3,12 +3,43 @@
 [![Lisans: CC-BY-4.0](https://img.shields.io/badge/Lisans-CC--BY--4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Dokümantasyon: Açık Arşiv](https://img.shields.io/badge/Dok%C3%BCmantasyon-A%C3%A7%C4%B1k%20Tarih%20Ar%C5%9Fivi-darkgreen.svg)](#)
 [![Metodoloji: Karşılaştırmalı Tarih](https://img.shields.io/badge/Metodoloji-Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmal%C4%B1%20Tarih%20%26%20Dekonstr%C3%BCksiyon-orange.svg)](#)
+[![Akademik Düzey: İleri Araştırma](https://img.shields.io/badge/Akademik%20D%C3%BCzey-%C4%B0leri%20Ara%C5%9Ft%C4%B1rma-purple.svg)](#)
 
 > *"Tarih yazmak, tarih yapmak kadar mühimdir. Yazan yapana sadık kalmazsa değişmeyen hakikat, insanlığı şaşırtacak bir mahiyet alır."*  
 > — **Mustafa Kemal Atatürk** (*Türk Tarih Tetkik Cemiyeti Toplantısı, 1931*)
 
 > *"Bir devrim ya bütünüyle yapılır ya da hiç yapılmaz. Yarı yolda duranlar yalnızca kendi mezarlarını kazarlar."*  
 > — **Louis Antoine de Saint-Just** (*Fransız Devrimi Konvansiyon Konuşması, 1794*)
+
+> *"Doğu toplumlarında modernleşme tabandan gelen bir talep değil, aydın bürokratik elitin kitleyi kurtarma misyonuyla yürüttüğü pedagojik bir zorlamadır."*  
+> — **Prof. Dr. Şerif Mardin** (*Türkiye'de Toplum ve Siyaset*)
+
+---
+
+## 📑 İçindekiler Tablosu
+
+1. [📌 Proje Manifestosu](#-proje-manifestosu)
+2. [🏛️ Teorik ve Epistemolojik Çerçeve: Jakoben Akıl Nedir?](#️-teorik-ve-epistemolojik-çerçeve-jakoben-akıl-nedir)
+3. [🌐 Karşılaştırmalı Jakoben Devrimler Matrisi (Fransız - Bolşevik - Kemalist)](#-karşılaştırmalı-jakoben-devrimler-matrisi-fransız---bolşevik---kemalist)
+4. [📂 Genişletilmiş Dizin Mimarisi](#-genişletilmiş-dizin-mimarisi)
+5. [🔬 Yeni Tarihsel Araştırma Alanları ve Tematik Dosyalar](#-yeni-tarihsel-araştırma-alanları-ve-tematik-dosyalar)
+   - [5.1. Ulus İnşası, Türkleştirme ve Doğu Raporları (1925-1938)](#51-ulus-inşası-türkleştirme-ve-doğu-raporları-1925-1938)
+   - [5.2. Ekonomi-Politik: İzmir İktisat Kongresi'nden Devletçilik ve "Milli Burjuvazi" Teşekkülüne](#52-ekonomi-politik-izmir-iktisat-kongresinden-devletçilik-ve-milli-burjuvazi-teşekkülüne)
+   - [5.3. Kadın, Beden ve Aile Siyaseti: "Devlet Feminizmi" mi, Bireysel Özgürleşme mi?](#53-kadın-beden-ve-aile-siyaseti-devlet-feminizmi-mi-bireysel-özgürleşme-mi)
+   - [5.4. Radikal Sekülarizm ve Türkçe İbadet Projesi (Ezan, Kuran ve Ayasofya)](#54-radikal-sekülarizm-ve-türkçe-ibadet-projesi-ezan-kuran-ve-ayasofya)
+   - [5.5. Üniversite ve Zihniyet İnşası: 1933 Üniversite Reformu ve Müderris Tasfiyeleri](#55-üniversite-ve-zihniyet-inşası-1933-üniversite-reformu-ve-müderris-tasfiyeleri)
+   - [5.6. Dış Politika ve Jeopolitik Realizm: "Yurtta Sulh, Cihanda Sulh" Dekonstrüksiyonu](#56-dış-politika-ve-jeopolitik-realizm-yurtta-sulh-cihanda-sulh-dekonstrüksiyonu)
+6. [⚖️ Çok Boyutlu Tarihsel Perspektifler ve Zengin Alıntılar Arşivi](#️-çok-boyutlu-tarihsel-perspektifler-ve-zengin-alıntılar-arşivi)
+   - [1. Kurucu ve Radikal Aydınlanmacı Çevre](#1-kurucu-ve-radikal-aydınlanmacı-çevre)
+   - [2. Silah Arkadaşları ve Meclis İçi Muhalefet](#2-silah-arkadaşları-ve-meclis-içi-muhalefet)
+   - [3. İslami, Gelenekçi ve Muhafazakâr Düşünürler](#3-islami-gelenekçi-ve-muhafazakâr-düşünürler)
+   - [4. Sol, Marksist ve Sosyalist / Eleştirel Yaklaşımlar](#4-sol-marksist-ve-sosyalist--eleştirel-yaklaşımlar)
+   - [5. Yabancı Biyograflar ve Batılı Akademisyenler](#5-yabancı-biyograflar-ve-batılı-akademisyenler)
+7. [📊 Genişletilmiş 10 Boyutlu Karşılaştırma Matrisi](#-genişletilmiş-10-boyutlu-karşılaştırma-matrisi)
+8. [⏳ Tarihsel Kırılma Kronolojisi (1919 – 1938)](#-tarihsel-kırılma-kronolojisi-1919--1938)
+9. [📚 Kapsamlı Akademik Bibliyografya](#-kapsamlı-akademik-bibliyografya)
+10. [🛠️ Metodoloji ve Katkı Kuralları](#️-metodoloji-ve-katkı-kuralları)
+11. [📄 Lisans](#-lisans)
 
 ---
 
@@ -52,16 +83,32 @@ Cumhuriyet modernleşmesini kavramak için Jakobenizmin Osmanlı-Türk modernle�
                └────────────────────────────────────────────────────────┘
 ```
 
-1. **Kamu Selameti (Salut Public) ve İhtilal Hukuku:** Jakoben gelenek, olağanüstü dönemlerde milletin kurtuluşunu ve inkılabın bekasını yürürlükteki pozitif hukukun üstünde görür. Mahmut Esat Bozkurt'un tabiriyle *"İhtilal kanunları mevcut kanunların üstündedir."*
-2. **Genel İrade (Volonté Générale) vs. Çoğunluk İradesi:** Rousseaucu kuramda olduğu gibi, halkın güncel talepleri (çoğunluk tercihi) her zaman onun "hakiki ve rasyonel çıkarını" (genel iradeyi) yansıtmayabilir. Aydın öncü kadro, halkı kendi cehaletinden ve geleneksel prangalarından "kurtarma" misyonunu üstlenir.
-3. **Kültürel Mühendislik ve Radikal Kopuş:** Anglo-Sakson evrimci modernleşmesinin (tedricilik) aksine; harf devrimi, kılık kıyafet düzenlemesi ve tekke-zaviyelerin kapatılması gibi adımlarla geçmişle olan sembolik, kurumsal ve zihni bağlar hızla koparılır.
-4. **Devletçi-Dayanışmacı Toplum Tasarımı:** Ziya Gökalp'in *"Fert yok, cemiyet var; hak yok, vazife var"* şiarıyla şekillenen solidarizm, sınıf çatışmasını reddeden, imtiyazsız, sınıfsız, kaynaşmış bir kitle hedefler.
+1. **Kamu Selameti (Salut Public) ve İhtilal Hukuku:** Jakoben gelenek, olağanüstü dönemlerde milletin kurtuluşunu ve inkılabın bekasını yürürlükteki pozitif hukukun üstünde görür. Mahmut Esat Bozkurt'un tabiriyle *"İhtilal kanunları mevcut kanunların üstündedir."* İhtilal meşruiyetini kendi başarısından alır.
+2. **Genel İrade (Volonté Générale) vs. Çoğunluk İradesi:** Jean-Jacques Rousseau'nun kuramında olduğu gibi, halkın güncel talepleri (çoğunluk tercihi) her zaman onun "hakiki ve rasyonel çıkarını" (genel iradeyi) yansıtmayabilir. Skolastik geleneklerin baskısı altındaki halk henüz kendi hakiki menfaatini bilebilecek rüştte kabul edilmez. Bu sebeple aydın öncü kadro, halkı kendi cehaletinden ve geleneksel prangalarından "kurtarma" misyonunu üstlenir.
+3. **Kültürel Mühendislik ve Radikal Epistemolojik Kopuş:** Anglo-Sakson evrimci modernleşmesinin (tedricilik ve uzlaşma) aksine; harf devrimi, kılık kıyafet kanunu, tekke-zaviyelerin kapatılması ve Medeni Kanun gibi adımlarla geçmişle olan sembolik, kurumsal, lisani ve hukuki bağlar tek bir hamlede koparılır.
+4. **Devletçi-Dayanışmacı Toplum Tasarımı (Solidarizm):** Ziya Gökalp'in *"Fert yok, cemiyet var; hak yok, vazife var"* şiarıyla şekillenen Émile Durkheim kaynaklı solidarizm; Marksist sınıf mücadelesini ve liberal bireyciliği aynı anda reddeder. Toplum, birbirine muhtaç meslek zümrelerinden müteşekkil, imtiyazsız, sınıfsız, kaynaşmış bir kitle olarak kurgulanır.
 
 ---
 
-## 📂 Dizin Mimarisi
+## 🌐 Karşılaştırmalı Jakoben Devrimler Matrisi (Fransız - Bolşevik - Kemalist)
 
-Arşiv, tematik dosyalar, birincil meclis zabıtları ve doğrudan tarihsel alıntılardan oluşan hiyerarşik bir yapıda düzenlenmiştir:
+Modern tarihteki üç büyük radikal dönüşüm modelinin karşılaştırmalı analizi:
+
+| Karşılaştırma Ekseni | Fransız Devrimi (1789-1794) | Bolşevik Devrimi (1917-1924) | Kemalist Devrim (1919-1938) |
+| :--- | :--- | :--- | :--- |
+| **Öncü Kadro ve Aktörler** | Avukatlar, aydınlar, radikal burjuvazi (Jakoben Kulübü, Robespierre, Saint-Just) | Profesyonel ihtilalciler, entelektüeller, işçi-asker sovyetleri (Lenin, Troçki) | Osmanlı ordu zabitleri, aydın bürokratlar (Mustafa Kemal, İsmet İnönü) |
+| **İdeolojik Referans** | Aydınlanma Felsefesi, Rousseau, Doğal Haklar, Ulus Egemenliği | Marksizm-Leninizm, Tarihsel Materyalizm, Proletarya Diktatörlüğü | Pozitivizm (Auguste Comte), Solidarizm (Gökalp), Türk Milliyetçiliği |
+| **Toplumsal Taban / Sınıf** | Üçüncü Sınıf (Tiers État), Sans-culottes (baldırcıplaklar) | Fabrika proletaryası ve yoksul köylülük (Sovyetler) | Bürokrasi, askerler, yerel eşraf ittifakı (Köylü sınıfı nesnedir) |
+| **Olağanüstü Yargı Organı** | *Tribunal révolutionnaire* (Devrim Mahkemesi) & Giyotin | Çeka, Askeri Devrimci Komiteler & Kızıl Terör | İstiklal Mahkemeleri (Ankara, Şark) |
+| **Din Politikası** | Hristiyanlıktan Arındırma (*Déchristianisation*), Akıl Kültü | Bilimsel Ateizm, Kiliselerin Mülksüzleştirilmesi, Din Karşıtı Propaganda | Mücadeleci Laiklik (*Laïcité de combat*), Diyanet eliyle devlet denetimi |
+| **Kültürel Kopuş Yöntemi** | Jakoben Takvimi, Metrik Sistem, Kılık kıyafet devrimi | Eski takvimin terki, Proletkult hareketi, Dinamik alfabe reformları | Harf İnkılabı, Türkçeleştirme, Şapka Kanunu, Hafta Tatili, Metrik Sistem |
+| **Mülkiyet Anlayışı** | Özel mülkiyeti kutsayan burjuva anayasası | Özel mülkiyetin lağvı, üretim araçlarının kamulaştırılması | Özel mülkiyet güvencesi + Zorunlu Devletçilik (Milli Burjuvazi inşası) |
+
+---
+
+## 📂 Genişletilmiş Dizin Mimarisi
+
+Arşiv, tematik dosyalar, birincil meclis zabıtları, gizli raporlar ve doğrudan tarihsel alıntılardan oluşan hiyerarşik bir yapıda düzenlenmiştir:
 
 ```text
 jakoben-akil/
@@ -73,7 +120,9 @@ jakoben-akil/
 │   ├── birinci-meclis-ikinci-grup-muhalefeti.md
 │   ├── saltanat-ve-hilafetin-ilgasinda-metot.md
 │   ├── terakkiperver-cumhuriyet-firkasi-ve-kapatilmasi.md
-│   └── serbest-cumhuriyet-firkasi-deneyi.md
+│   ├── serbest-cumhuriyet-firkasi-deneyi.md
+│   ├── 1934-iskan-kanunu-ve-sark-raporlari.md
+│   └── kadinlar-halk-firkasi-ve-devlet-feminizmi.md
 ├── 03-hukuk-olagandisi-rejim-ve-tasfiyeler/
 │   ├── istiklal-mahkemeleri-kararlari-ve-uygulamalar.md
 │   ├── takrir-i-sukun-kanunu-ve-basin-rejimi.md
@@ -82,23 +131,125 @@ jakoben-akil/
 │   ├── harf-ve-dil-devrimi-kulturel-hafiza-tartismasi.md
 │   ├── kilik-kiyafet-ve-sapka-kanunu-tepkileri.md
 │   ├── laiklik-ve-diyanet-isleri-baskanligi-pragmatizmi.md
-│   └── medeni-kanun-ve-kadin-haklari.md
+│   ├── medeni-kanun-ve-kadin-haklari.md
+│   ├── turkce-ezan-ve-ibadet-politikasi.md
+│   └── 1933-universite-reformu-ve-aydin-tasfiyesi.md
 ├── 05-perspektifler-ve-tanikliklar/
+│   ├── README.md                      # Beş düşünce ekolünün epistemolojik haritası
 │   ├── kurucu-ve-resmi-kadro/        # Falih Rıfkı, Mahmut Esat, Afet İnan, Celal Bayar, İsmet İnönü
 │   ├── meclis-ve-silah-arkadaslari/  # Karabekir, Rauf Orbay, Ali Fuat, Halide Edip, Hüseyin Avni
-│   ├── muhafazakar-ve-islamci/       # Mehmet Akif, Necip Fazıl, Şerif Mardin, Cemil Meriç, Tanpınar
+│   ├── muhafazakar-ve-islamci/       # Mehmet Akif, Necip Fazıl, Said Nursi, Şerif Mardin, Tanpınar
 │   ├── sol-ve-sosyalist-tahliller/   # Kıvılcımlı, Küçükömer, Şevket Süreyya, Boratav, Avcıoğlu, Berkes
-│   └── yabanci-biyografi-ve-rapor/   # Mango, Kinross, Armstrong, Lewis, Toynbee, Zürcher
+│   └── yabanci-biyografi-ve-rapor/   # Mango, Kinross, Armstrong, Lewis, Toynbee, Zürcher, Bruinessen
 └── 06-birincil-belgeler-arsivi/
-    ├── tbmm-gizli-celse-zabitlari/
+    ├── tbmm-gizli-celse-zabitlari/   # Saltanat, hilafet, başkomutanlık tutanakları
     └── donemsel-kararnameler-ve-yazismalar/
 ```
 
 ---
 
-## ⚖️ Çok Boyutlu Perspektifler ve Tarihsel Alıntılar
+## 🔬 Yeni Tarihsel Araştırma Alanları ve Tematik Dosyalar
+
+Bu bölümde, Cumhuriyet dönemi Jakoben aklının yakın dönem akademik çalışmalara konu olan altı temel ameliyat sahası derinlemesine incelenmektedir.
+
+---
+
+### 5.1. Ulus İnşası, Türkleştirme ve Doğu Raporları (1925-1938)
+
+Erken Cumhuriyet'in en kritik iç güvenlik ve modernleşme problemi, çok-etnili imparatorluk bakiyesinden yekpare bir Türk ulusu yaratmaktı. Bu süreç Şeyh Said (1925), Ağrı (1926-1930) ve Dersim (1937-1938) hadiseleriyle güvenlikçi ve demografik bir mühendisliğe evrildi.
+
+* **1934 İskân Kanunu (Kanun No: 2510):** Türkiye topraklarını üç iskân bölgesine ayırdı:
+  1. *1 Nolu Mıntıkalar:* Türk kültürlü nüfusun yoğunlaştırılacağı yerler.
+  2. *2 Nolu Mıntıkalar:* Türk kültürüne temsili (asimilasyonu) istenen nüfusun nakil ve iskân edileceği yerler.
+  3. *3 Nolu Mıntıkalar:* Yerleşime ve iskâna tamamen yasaklanan sahalar.
+* **İsmet İnönü'nün Gizli Şark Seyahati Raporu (1935):**
+  > *"Erzincan Kürt merkezi olursa Kürdistanın kurulmasından korkulur... Van gölü havzasını süratle Türkleştirmek zorundayız. Kürtleri Türk ocakları ve maarif yoluyla eritmek devletin hayat memat meselesidir."* (*İsmet İnönü'nün Doğu Raporu*, Yayına Hazırlayan: Saygı Öztürk)
+* **Celal Bayar'ın İktisadi Entegrasyon Raporu (1936):**
+  İnönü'nün katı askeri-asimilasyonist yaklaşımına karşılık İktisat Vekili Celal Bayar; Doğu'ya yol, fabrika, ziraat kredisi ve istihdam götürülerek feodal aşiret bağlarının çözülebileceğini savundu.
+* **Mahmut Esat Bozkurt'un Radikal Çıkışı (1930):**
+  > *"Biz Türkiye denen dünyanın en hür memleketinde yaşıyoruz. Mebusunuz o kanaattedir ki, bu memleketin efendisi Türktür. Öz Türkçe olmayanların Türk vatanında bir tek hakları vardır; o da hizmetçi olmak hakkı, köle olmak hakkıdır!"* (*Ödemiş Nutku*, 19 Eylül 1930)
+
+---
+
+### 5.2. Ekonomi-Politik: İzmir İktisat Kongresi'nden Devletçilik ve "Milli Burjuvazi" Teşekkülüne
+
+Kemalist modernleşmenin iktisat vizyonu, bağımsız bir milli ekonomi inşa etme hedefiyle şekillendi:
+
+* **1923 İzmir İktisat Kongresi ve Liberal Dönem (1923-1929):** Kongre, yabancı sermayeye açık, özel mülkiyeti tanıyan fakat gayrimüslim tekelini kırmayı amaçlayan "Misak-ı İktisadi"yi kabul etti. Aşar vergisinin kaldırılması (1925) köylüyü rahatlattı fakat tarımda köklü bir toprak reformu yapılmasını engelledi.
+* **1929 Büyük Buhranı ve Devletçilik (Etatism):** Serbest piyasanın çöküşüyle birlikte Türkiye, Sovyet tipi planlamadan esinlenen **Birinci Beş Yıllık Sanayi Planı**'nı (1934) devreye soktu. Sümerbank ve Etibank kurularak dokuma, şeker, demir-çelik sanayisi devlet eliyle inşa edildi.
+* **Bürokratik Klik Çatışması:**
+  * *İsmet İnönü Kanadı:* Katı devletçilik, döviz ve ithalat kontrolleri, bürokratik planlama.
+  * *İş Bankası Çevresi (Celal Bayar):* Devletin sermaye birikimi sağlayıp milli özel teşebbüse devretmesini savunan pragmatik devletçilik.
+* **Kadro Dergisi Teorisi (Şevket Süreyya Aydemir, Yakup Kadri):**
+  > *"Türkiye ne Batı tipi vahşi kapitalizme ne de sınıf kavgası güden Marksizme teslim olabilir. Bizim yolumuz; aydın öncü kadronun yönettiği, sınıfsız, imtiyazsız ve planlı bir milli kurtuluş iktisadıdır."* (*Kadro*, Sayı 1, 1932)
+* **Akademik Değerlendirme (Prof. Dr. Korkut Boratav):**
+  > *"Erken Cumhuriyet devletçiliği anti-kapitalist değil, kapitalist gelişmeyi hızlandırmaya dönük bir devlet kapitalizmidir. Devlet eliyle sermaye biriktirilmiş, palazlanan milli burjuvaziye aktarılmıştır."* (*Türkiye İktisat Tarihi*)
+
+---
+
+### 5.3. Kadın, Beden ve Aile Siyaseti: "Devlet Feminizmi" mi, Bireysel Özgürleşme mi?
+
+Kemalist inkılabın en çok övülen boyutu kadın haklarıdır; ancak feminist ve sosyolojik tarihçilik bu süreci farklı bir analize tabi tutar:
+
+* **1926 Medeni Kanun Devrimi:** Çok eşlilik yasaklandı, boşanma ve miras hakkı eşitlendi, medeni nikâh zorunlu kılındı.
+* **Siyasi Haklar Kronolojisi:** 1930 Belediye Seçimleri, 1933 Muhtarlık Seçimleri, 5 Aralık 1934 TBMM Seçme ve Seçilme Hakkı (Fransa, İtalya ve İsviçre'den yıllar önce).
+* **Nezihe Muhiddin ve Kadınlar Halk Fırkası Olayı (1923):**
+  Cumhuriyet Halk Fırkası'ndan önce Nezihe Muhiddin tarafından kurulan ilk kadın partisi, *"kadınların henüz siyasi hakları olmadığı"* gerekçesiyle valilikçe tescil edilmedi. Parti, **Türk Kadınlar Birliği** adıyla derneğe dönüştürüldü; 1935'te kadınlara siyasi haklar verildikten hemen sonra *"artık gayeniz gerçekleşti"* denilerek bizzat rejim tarafından feshettirildi.
+* **Devlet Feminizmi ve Patriyarkal Pazarlık:**
+  * **Prof. Dr. Nilüfer Göle (*Modern Mahrem*):** Cumhuriyet modernleşmesi kadını kamusal alana çıkardı; fakat onu birey olarak değil, modernliğin vitrini ve "milletin iffetli annesi" olarak kurguladı. Kadının bedeni seküler devlet ile geleneksel İslam arasındaki sembolik harp sahasına dönüştü.
+  * **Deniz Kandiyoti (*Cariyeler, Bacılar, Yurttaşlar*):** Kadın hakları kadınların tabandan gelen kitlesel mücadelesiyle değil, Kemalist erkek bürokrasinin Batı'ya rüştünü ispat etme projesi (devlet feminizmi) olarak yukarıdan lütfedildi.
+
+---
+
+### 5.4. Radikal Sekülarizm ve Türkçe İbadet Projesi (Ezan, Kuran ve Ayasofya)
+
+Kemalist Jakobenizmin dini dönüştürme projesi, yalnızca kurumları lağvetmekle yetinmedi; ibadetin diline ve mekânına da müdahale etti:
+
+* **Türkçe Ezan Uygulaması (1932-1950):** 
+  Ocak 1932'de Yerebatan Camii'nde Hafız Yaşar Okur tarafından ilk Türkçe Kur'an okundu. 30 Ocak 1932'de Fatih Camii minaresinden ilk Türkçe ezan okundu. Diyanet İşleri Reisliği 18 Temmuz 1932'de tamim yayımlayarak Arapça ezan ve kameti yasakladı. 1941'de Türk Ceza Kanunu'nun 526. maddesine eklenen fıkrayla Arapça ezan okuyanlara hapis ve para cezası getirildi.
+* **1932 Bursa Hadisesi ve Mustafa Kemal'in Reaksiyonu:**
+  Bursa'da ezanın Türkçe okunmasına karşı çıkan küçük bir grubun valiliğe yürümesi üzerine Gazi bizzat Bursa'ya gitti ve tarihi açıklamasını yaptı:
+  > *"Hadise katiyen din meselesi değildir; dil meselesidir. Katiyen bilmelidir ki, Türk milletinin milli dili ve milli benliği bütün hayatında hakim ve esas kalacaktır."* (6 Şubat 1933)
+* **Ayasofya'nın Müzeye Dönüştürülmesi (24 Kasım 1934):**
+  Fatih Sultan Mehmed'in kılıç hakkı ve İstanbul'un fethinin sembolü olan Ayasofya Camii, 24 Kasım 1934 tarihli Bakanlar Kurulu kararnamesiyle müzeye tahsis edildi. Bu adım, Cumhuriyet'in Bizans mirasını kucaklayarak Batı medeniyetine sunduğu en radikal seküler iyi niyet jesti olarak yorumlandı.
+* **Said Nursi ve Mistik Sivil Direniş:**
+  Şeyh Said ve Menemen hadiseleri gibi silahlı reaksiyonların aksine; Said Nursi, telif ettiği *Risale-i Nur* risalelerini el yazısıyla Anadolu köylerine yayarak rejimin pozitivist ve materyalist eğitimine karşı gizli, sivil ve entelektüel bir inanç müdafaası yürüttü. Barla, Kastamonu, Emirdağ sürgünleri ve Eskişehir, Denizli, Afyon mahkemelerinde yargılandı.
+
+---
+
+### 5.5. Üniversite ve Zihniyet İnşası: 1933 Üniversite Reformu ve Müderris Tasfiyeleri
+
+Aydınlanmanın zihniyet altyapısını kurmak için geleneksel yükseköğretim kurumu tasfiye edildi:
+
+* **Darülfünun'un Sonu ve Prof. Albert Malche Raporu:**
+  Osmanlı'dan kalan Darülfünun, inkılapları desteklememekle, Türk Tarih ve Dil Tezlerine ilgisiz kalmakla suçlandı. İsviçreli pedagog Prof. Albert Malche davet edilerek bir rapor hazırlatıldı.
+* **1933 Reformu ve Büyük Tasfiye:**
+  31 Temmuz 1933'te Darülfünun ilga edildi, 1 Ağustos'ta **İstanbul Üniversitesi** kuruldu. Mevcut 240 müderris ve muallimden 157'si (aralarında İsmail Hakkı Baltacıoğlu, Babanzade Ahmed Naim, Ali Kemalizade Zeki Velidi Togan, Şekip Tunç gibi devrin en yetkin ilim adamları) üniversiteden bir gecede kovuldu.
+* **Maarif Vekili Dr. Reşit Galip'in Tasfiye Gerekçesi:**
+  > *"Millet büyük inkılaplar yaparken Darülfünun tarafsız bir seyirci gibi kaldı. İnkılapları benimsemeyen, onun heyecanını duymayan bir müesseseye yeni Türkiye'de tahammül edilemez!"*
+* **Nazi Almanyası'ndan Kaçan Bilim İnsanları:**
+  Tasfiyeyle boşalan kadrolara, Hitler rejiminden kaçan Yahudi ve muhalif Alman bilim insanları (Fritz Neumark, Ernst Reuter, Philipp Schwartz, Leo Spitzer vb.) yerleştirildi. Bu hamle bir yandan Türkiye'de modern akademik standartların kurulmasını sağlarken, diğer yandan yerli düşünce sürekliliğini kesintiye uğrattı.
+* **Türk Ocakları'nın Feshi ve Halkevleri (1932):**
+  1912'den beri Türk milliyetçiliğinin ocağı olan özerk Türk Ocakları, 1931 kurultayında kapatılarak gayrimenkulleriyle birlikte CHF'ye devredildi ve 1932'de partinin doğrudan halk eğitimi şubesi olarak **Halkevleri** kuruldu.
+
+---
+
+### 5.6. Dış Politika ve Jeopolitik Realizm: "Yurtta Sulh, Cihanda Sulh" Dekonstrüksiyonu
+
+Mustafa Kemal Atatürk'ün dış politika stratejisi romantik bir pasifizm değil, içerideki radikal dönüşümü dış tehditlerden korumayı hedefleyen soğukkanlı bir realizmdir:
+
+* **Revizyonizmden Kaçınma:** Birinci Dünya Savaşı mağlubu ülkelerin (Almanya, İtalya, Macaristan) aksine Türkiye, Lozan ile çizilen sınırları bir kader değil başarı saydı; Misak-ı Milli'yi tamamladıktan sonra yayılmacı maceracılıktan kaçındı.
+* **İttifaklar Mimarisi:** İtalya'nın Akdeniz'deki saldırganlığına karşı **Balkan Antantı** (1934), doğu sınırlarının güvenliği için **Sadabat Paktı** (1937) kuruldu.
+* **Montrö Boğazlar Sözleşmesi (1936):** İkinci Dünya Savaşı'nın ayak sesleri duyulurken uluslararası konjonktür dehasıyla Boğazlar Komisyonu lağvedildi ve Boğazlar Türk ordusunun tam egemenliğine bırakıldı.
+* **Hatay Hamlesi (1938):** Milletler Cemiyeti mekanizmasını ustalıkla kullanan, gerektiğinde sınıra bizzat trenle giderek askeri güç gösterisi yapan Atatürk; Fransa'nın Suriye mandasından Hatay Cumhuriyeti'ni kopardı ve 1939'daki ilhaka giden yolu açtı.
+
+---
+
+## ⚖️ Çok Boyutlu Tarihsel Perspektifler ve Zengin Alıntılar Arşivi
 
 Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İslamcı/muhafazakâr aydınları, sol/sosyalist teorisyenleri ve uluslararası tarihçilerin doğrudan kendi eserlerinden derlenmiştir.
+
+---
 
 ### 1. Kurucu ve Radikal Aydınlanmacı Çevre
 
@@ -119,6 +270,12 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 
 > *"Bir ikinci medeniyet yoktur; medeniyet Batı medeniyetidir ve bunu gülüyle dikeniyle bütünüyle kabul etmek mecburiyetindeyiz. Ya Garplılaşırız ya da mahvoluruz!"*  
 > — **Dr. Abdullah Cevdet** (*İctihad Dergisi, 1912 / Erken Cumhuriyet Yazıları*)
+
+> *"İnkılap bir heyettir, bir bütündür. Parça parça inkılap olmaz. Eski harflerle yeni bir medeniyet zihniyeti kurulamazdı. Arap harfleri Türk dimağını asırlarca esir etmiş bir kaledir; biz bu kaleyi dinamitle havaya uçurduk."*  
+> — **Celal Nuri İleri** (*Türk İnkılabı*, 1926)
+
+> *"Darülfünun inkılabın ruhunu kavramamıştır. Orada oturan hocalar memleketin kanla yoğrulmuş yeni binasını bir seyirci locasından izler gibi izleyemezler. İnkılapçı üniversite inkılaba biat etmek mecburiyetindedir."*  
+> — **Dr. Reşit Galip** (*1933 Üniversite Reformu Açış Nutku*)
 
 ---
 
@@ -141,13 +298,16 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 
 ---
 
-### 3. İslami, Gelenekçi ve Muhafazakâr Çevre
+### 3. İslami, Gelenekçi ve Muhafazakâr Düşünürler
 
 > *"Doğrudan doğruya Kur'an'dan alıp ilhamı / Asrın idrakine söyletmeliyiz İslam'ı... Biz cephede kan dökerken gayemiz dinin ve vatanın bekasıydı. Sonradan gelen inkılap dalgası, milletin asırlık ruh kökünü ve manevi bağlarını budayan bir fırtınaya dönüştü."*  
 > — **Mehmet Âkif Ersoy** (*Safahat ve Dönem Yazışmaları / Eşref Edib Tanıklığı*)
 
 > *"Cumhuriyet inkılapları, Doğu ile Batı arasında köprü kurmadı; cemiyetin kendi tarihsel hafızasıyla bağını bir gecede kesti. Harf İnkılabı ile koskoca bir millet, dedesinin mezar taşını ve bin yıllık kütüphanesini okuyamaz hale getirildi. Bu bir terakki değil, kültürel bir giyotindir."*  
 > — **Necip Fazıl Kısakürek** (*Son Devrin Din Mazlumları*, s. 78)
+
+> *"Beni bir nefer gibi mahkemeden mahkemeye sürdüler, zindanlarda zehirlediler. Kabahatim neydi? Sadece bu milletin imanı sönmesin, Kur'an'ın hakikatleri genç nesillere ulaşsın diye çalışmaktı. İnkılap dedikleri şey, imanı söküp yerine Frenk adetlerini koymaksa, biz bu zihniyete ebediyen muhalifiz."*  
+> — **Bediüzzaman Said Nursi** (*Tarihçe-i Hayat & Mahkeme Müdafaaları*)
 
 > *"Türkiye'deki jakoben aydınlanma, merkez (bürokrasi ve askeri elit) ile çevre (Anadolu köylülüğü ve dindarlar) arasındaki uçurumu kapatmamış, bilakis derinleştirmiştir. Din, rejimin gözünde dönüştürülmesi ve devletin sıkı teftişinde tutulması gereken bir 'arkaizm' olarak kodlanmıştır."*  
 > — **Prof. Dr. Şerif Mardin** (*Türkiye'de Din ve Siyaset*, s. 112-115)
@@ -158,9 +318,12 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 > *"Bizim modernleşmemiz trajik bir ikilik doğurdu: Eski ile yeni yan yana değil, birbirini inkâr ederek yaşadı. Saatleri Ayarlama Enstitüsü tam da bu şekilperest, bürokratik ve yapay ritmin ironik destanıdır."*  
 > — **Ahmet Hamdi Tanpınar** (*Edebiyat Üzerine Makaleler & Saatleri Ayarlama Enstitüsü*)
 
+> *"Laiklik vicdan hürriyeti demektir. Devleti yönetenler vatandaşın inancına ve ibadet diline polis zoruyla müdahale edemez. Ezanı susturmak veya Türkçeleştirmek dini ıslah değil, dini devlete ram etmektir."*  
+> — **Prof. Dr. Ali Fuad Başgil** (*Din ve Laiklik*)
+
 ---
 
-### 4. Sol, Marksist ve Eleştirel Yaklaşımlar
+### 4. Sol, Marksist ve Sosyalist / Eleştirel Yaklaşımlar
 
 > *"Kemalist Devrim, feodalizme ve emperyalizme karşı vurulmuş ilerici bir darbedir. Ancak hareket tabana yayılmadığı, köylüyü topraksız bıraktığı ve halk sınıflarına dayanmadığı için bürokratik-askeri bir üst yapı reformu sınırında kalarak donmuştur. Burjuvazi yaratma hedefi, devrimi komprador çıkarlara teslim etmiştir."*  
 > — **Dr. Hikmet Kıvılcımlı** (*İhtiyat Kuvvet: Milliyet ve Türkiye'de Kapitalizmin Gelişimi*, s. 154)
@@ -179,6 +342,9 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 
 > *"Türkiye'de laiklik, din ve devlet işlerinin ayrılması değil; devletin dini inançları ve cemaatleri bütünüyle kendi siyasal ve ideolojik kontrolü altına alması demektir. Diyanet İşleri Başkanlığı bir sekülerleşme aracından ziyade devletin din üzerindeki mutlak vesayet organıdır."*  
 > — **Prof. Dr. Niyazi Berkes** (*Türkiye'de Çağdaşlaşma*, s. 480-485)
+
+> *"Tek parti rejimi burjuvazinin henüz cılız olduğu bir konjonktürde askeri ve sivil bürokrasinin mutlak hegemonyası olarak tecessüm etti. Bu rejim ne işçi sınıfının örgütlenmesine ne de köylü inisiyatifine izin verdi."*  
+> — **Prof. Dr. Çağlar Keyder** (*Türkiye'de Devlet ve Sınıflar*)
 
 ---
 
@@ -199,9 +365,12 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 > *"Kemal Paşa demir bir iradeye sahipti. Etrafındaki kimsenin şahsi iktidarına ortak olmasına tahammülü yoktu. Arkadaşlarını birer birer harcadı; fakat bunu şahsi zevk için değil, kafasındaki mutlak yeni Türkiye projesini hiçbir engele çarpmadan hayata geçirmek için yaptı."*  
 > — **H.C. Armstrong** (*Bozkurt / Grey Wolf*, s. 195)
 
+> *"Kemalist devlet, Doğu vilayetlerindeki aşiret ve şeyhlik ağlarını feodal gericilik olarak gördü ve onları yalnızca askeri şiddet ve zorunlu iskânla dönüştürmeye çalıştı. Bu durum geleneksel bağlılıkları çözmek yerine bölgede nesiller sürecek kimlik çatışmalarının tohumunu attı."*  
+> — **Prof. Martin van Bruinessen** (*Ağa, Şeyh, Devlet*)
+
 ---
 
-## 📊 Genişletilmiş Tematik Karşılaştırma Matrisi
+## 📊 Genişletilmiş 10 Boyutlu Karşılaştırma Matrisi
 
 | Kırılma Noktası | Kurucu Kadro (Kemalist Teori) | Meclis Muhalifleri (Karabekir / Orbay) | Muhafazakâr & Gelenekçi Kanat | Sol / Marksist Eleştiri | Yabancı Akademik Çevre |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -211,7 +380,10 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 | **1926 İzmir Suikastı Yargılamaları** | Cumhuriyete ve inkılap rehberine suikast düzenleyen İttihatçı cuntanın tasfiyesi. | Masum silah arkadaşlarının haysiyet cellatlığıyla lekelenmek istenmesi. | Eski İttihatçıların ve rejim içi muhaliflerin yargısız infazı. | Bürokrasi içi klik kavgası; devrimci kadronun iktidar monopolünü perçinlemesi. | Mustafa Kemal'in mutlak iktidarını tartışmasız kılan nihai siyasi temizlik. |
 | **Harf ve Dil İnkılabı (1928-1932)** | Okuma-yazmayı kolaylaştırma, Türkçe'yi rasyonel ve milli kılma hamlesi. | Kültürel süreklilikte aşırı kopuş ve acelecilik. | Bin yıllık kütüphanelerin ve tarihi hafızanın bir gecede mezarlığa dönmesi. | Üstyapı reformu; köylünün üretim ilişkilerini ve sömürülmesini değiştirmeyen adım. | Batı dünyasına tam entegrasyonu sağlayan en köklü kültürel kopuş hamlesi. |
 | **Laiklik & Diyanet İşleri Başkanlığı** | Vicdan hürriyetinin temini ve dinin siyasi istismardan kurtarılması. | Dinin devlet kontrolünde araçsallaştırılması ve samimi dindarlara güvensizlik. | Dinin devlet tahakkümüne alınması, kamusal alandan tamamen sürülmesi. | Fransız Jakoben tipi baskıcı sekülarizm; dinin devlet ideolojisine eklemlenmesi. | Anglo-Sakson sekülarizminden farklı, devlete bağlı devlet-kilisesi benzeri yapı. |
+| **Türkçe Ezan ve İbadet Projesi (1932)** | Din dilinin millileştirilmesi ve ibadetin şuurlu idraki. | Dinin evrensel ritüellerine müdahale ve manevi hissiyatın tahribi. | Dini aslından saptırma (tahrif) ve cebr-i istibdat uygulaması. | Dinle mücadele görüntüsü altında halkın kültürel değerleriyle gereksiz çatışma. | Fransız Devrimi Akıl Kültü'ne benzer devlet güdümlü kültürel milliyetçilik. |
 | **Devletçilik & Ekonomi Politik (1930'lar)** | 1929 buhranına karşı sanayileşmeyi sağlayan milli iktisat modeli. | Özel teşebbüsün ve serbest piyasanın bürokratik oligarşiyle baltalanması. | Şehirli elitleri zenginleştiren, köylüyü ezen bürokratik sömürü çarkı. | Milli burjuvazi yetiştirmeyi amaçlayan devlet kapitalizmi. | Gelişmekte olan ülkeler için öncü ve başarılı bir korumacı planlama modeli. |
+| **1934 İskân Kanunu & Doğu Politikası** | Milli birliği sağlama, aşiret düzenini yıkma ve ulus bütünlüğü kurma. | Aşırı merkeziyetçilik ve yerel hakların bürokratik şiddetle çiğnenmesi. | Müslüman halkın kendi yurdundan sürülmesi ve manevi bağların koparılması. | Feodaliteyi toprak reformuyla değil, etnik/askeri zora dayanarak tasfiye etme yanılgısı. | Orta Doğu'daki modern ulus-devlet inşalarının tipik homojenleştirme mühendisliği. |
+| **1933 Üniversite Reformu & Aydın Tasfiyesi** | İnkılapçı zihniyeti kurma ve Batılı çağdaş bilim standartlarına geçiş. | Fikir hürriyetinin boğulması ve yerli ilim adamlarının haysiyetinin kırılması. | Osmanlı ilim geleneğinin ve milli müderris kadrosunun kökünün kazınması. | Resmi ideolojiye biat eden bürokratik entelijansiya yaratma hamlesi. | Mülteci Alman profesörler sayesinde modern bilimin girişi fakat yerel miras kaybı. |
 
 ---
 
@@ -221,10 +393,12 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 [1919-1922] ─── Millî Mücadele ve Çoğulcu Birinci Meclis Dönemi
   │             • Amasya Genelgesi: "Milletin istiklalini yine milletin azim ve kararı kurtaracaktır."
   │             • 23 Nisan 1920: TBMM'nin kuruluşu ve I. Grup - II. Grup meclis içi sert muhalefeti
-  │             • 1921 Anayasası (Teşkilat-ı Esasiye): Kuvvetler birliği ve meclis hükümeti sistemi
+  │             • 5 Ağustos 1921: Başkomutanlık Kanunu ve Tekâlif-i Milliye ile kuvvetler birliği
+  │             • 1921 Anayasası (Teşkilat-ı Esasiye): Meclis hükümeti sistemi
   │
 [1922-1924] ─── Rejimin Tasfiyesi ve İktidarın Merkezileşmesi
   │             • 1 Kasım 1922: Saltanatın İlgası ("İhtimal bazı kafalar kesilecektir")
+  │             • Nisan 1923: Ali Şükrü Bey suikastı ve Birinci Meclis'in feshi
   │             • 29 Ekim 1923: Cumhuriyetin İlanı (Meclis çoğunluğu olmadan ani oylama)
   │             • 3 Mart 1924: Hilafetin Kaldırılması, Tevhid-i Tedrisat ve Şeriye Vekâleti İlgası
   │
@@ -235,15 +409,23 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
   │             • 1926: İzmir Suikastı davası ve İttihatçı lider kadronun idamı (Cavid Bey, Dr. Nazım)
   │
 [1926-1930] ─── Radikal Kültürel Aydınlanma Hamlesi
-  │             • 1926: Türk Medeni Kanunu kabulü
-  │             • 1928: Latin Harflerine Geçiş (Harf İnkılabı) ve Millet Mektepleri
+  │             • 17 Şubat 1926: Türk Medeni Kanunu'nun kabulü
+  │             • 1 Kasım 1928: Latin Harflerine Geçiş (Harf İnkılabı) ve Millet Mektepleri
   │             • 1928: "Devletin dini İslamdır" maddesinin anayasadan çıkarılması
+  │             • 1930: Serbest Cumhuriyet Fırkası deneyi ve 99 gün sonra tasfiyesi
   │
-[1930-1938] ─── Yüksek Kemalist Rejim, Devletçilik ve Dil-Tarih Tezleri
-  │             • 1930: Serbest Fırka denemesi ve 99 gün sonra fesh edilmesi
+[1930-1938] ─── Yüksek Kemalist Rejim, İskân, Dil-Tarih Tezleri ve Devletçilik
   │             • 1931: Türk Tarih Tezi ve Türk Tarih Tetkik Cemiyeti
-  │             • 1932: Türk Dil Kurultayı ve Güneş-Dil Teorisi arayışları
-  │             • 1937: Altı Ok ilkelerinin (Laiklik dahil) 1924 Anayasası'na girişi
+  │             • 1932: Türkçe Ezan tamimi ve ilk Türkçe ibadet uygulamaları
+  │             • 1932: Türk Dil Kurultayı ve Türk Ocakları'nın Halkevleri'ne devri
+  │             • 1933: Darülfünun'un ilgası ve 1933 Üniversite Reformu
+  │             • 1934: 2510 Sayılı İskân Kanunu ve Soyadı Kanunu
+  │             • 24 Kasım 1934: Ayasofya Camii'nin müzeye çevrilmesi
+  │             • 5 Aralık 1934: Kadınlara Milletvekili Seçme ve Seçilme Hakkı
+  │             • 1936: Montrö Boğazlar Sözleşmesi ve Güneş-Dil Teorisi
+  │             • 5 Şubat 1937: Altı Ok ilkelerinin (Laiklik dahil) 1924 Anayasası'na girişi
+  │             • 1937-1938: Dersim Harekâtı ve İskân uygulamaları
+  │             • 1938: Hatay Cumhuriyeti'nin kuruluşu ve Mustafa Kemal Atatürk'ün vefatı
 ```
 
 ---
@@ -256,6 +438,7 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 * **Mustafa Kemal Atatürk**, *Atatürk'ün Söylev ve Demeçleri (I-III)*, Atatürk Araştırma Merkezi.
 * **İstiklal Mahkemeleri Tutanakları** (Ankara, İstanbul, Şark İstiklal Mahkemeleri), TBMM Yayınları.
 * **Düstur (3. Tertip)**, Türkiye Cumhuriyeti Kanunlar ve Kararnameler Külliyatı.
+* **Saygı Öztürk**, *İsmet İnönü'nün Doğu Raporu*, Doğan Kitap.
 
 ### Hatıratlar ve Şahsi Tanıklıklar
 * **Falih Rıfkı Atay**, *Çankaya: Atatürk'ün Doğumundan Ölümüne Kadar*, Pozitif Yayınları.
@@ -265,8 +448,11 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 * **Rauf Orbay**, *Cehennem Değirmeni: Siyasi Hatıralarım*, Örgün Yayınevi.
 * **Halide Edip Adıvar**, *Türk'ün Ateşle İmtihanı*, Can Yayınları.
 * **Ali Fuat Cebesoy**, *Siyasi Hatıralar (2 Cilt)*, Temel Yayınları.
+* **Celal Bayar**, *Ben de Yazdım (8 Cilt)*, Baha Matbaası.
 * **Şevket Süreyya Aydemir**, *Tek Adam: Mustafa Kemal (3 Cilt)* & *İkinci Adam: İsmet İnönü*, Remzi Kitabevi.
+* **Mehmet Cavid Bey**, *Felaket Günleri: Mütareke Devrinin Fikir ve Politika Hayatı*.
 * **Hasan Rıza Soyak**, *Atatürk'ten Hatıralar*, Yapı Kredi Yayınları.
+* **Fritz Neumark**, *Boğaziçi'ne Sığınanlar*, Neden Kitap.
 
 ### Akademik, Sosyolojik ve Eleştirel Eserler
 * **Prof. Bernard Lewis**, *The Emergence of Modern Turkey (Modern Türkiye'nin Doğuşu)*, TTK Yayınları.
@@ -281,13 +467,20 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 * **Dr. Hikmet Kıvılcımlı**, *İhtiyat Kuvvet: Milliyet ve Türkiye'de Kapitalizmin Gelişimi*, Tarih Bilimi Yayınları.
 * **Doğan Avcıoğlu**, *Türkiye'nin Düzeni (Dün-Bugün-Yarın)*, Kırmızı Kedi Yayınları.
 * **Prof. Dr. Korkut Boratav**, *Türkiye İktisat Tarihi (1908-2009)*, İmge Kitabevi.
-* **Prof. Dr. Feroz Ahmad**, *The Making of Modern Turkey (Modern Türkiye'nin Oluşumu)*, Kaynak Yayınları.
+* **Prof. Dr. Şevket Pamuk**, *Türkiye'nin 200 Yıllık İktisadi Tarihi*, Türkiye İş Bankası Kültür Yayınları.
+* **Prof. Dr. Çağlar Keyder**, *Türkiye'de Devlet ve Sınıflar*, İletişim Yayınları.
+* **Prof. Dr. Ahmet Demirel**, *Birinci Meclis'te Muhalefet: İkinci Grup*, İletişim Yayınları.
+* **Prof. Dr. Nilüfer Göle**, *Modern Mahrem: Medeniyet ve Örtünme*, Metis Yayınları.
+* **Prof. Dr. Deniz Kandiyoti**, *Cariyeler, Bacılar, Yurttaşlar: Kimlikler ve Siyaset*, Metis Yayınları.
+* **Prof. Martin van Bruinessen**, *Ağa, Şeyh, Devlet*, İletişim Yayınları.
+* **Prof. Geoffrey Lewis**, *The Turkish Language Reform: A Catastrophic Success*, Oxford University Press.
+* **Dücane Cündioğlu**, *Türkçe Kur'an ve Türkçe İbadet*, Kapı Yayınları.
 * **Cemil Meriç**, *Bu Ülke* & *Umrandan Uygarlığa*, İletişim Yayınları.
 * **Lord Kinross**, *Atatürk: The Rebirth of a Nation*, Altın Kitaplar.
 
 ---
 
-## 🛠️ Katkı ve Metodoloji Kuralları
+## 🛠️ Metodoloji ve Katkı Kuralları
 
 Bu depo akademik etik ve metodolojik tarafsızlık prensiplerine tam bağlılıkla işletilmektedir:
 
