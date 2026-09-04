@@ -96,6 +96,10 @@ Cumhuriyet modernleşmesini kavramak için Jakobenizmin Osmanlı-Türk modernle�
 
 ## 🌐 Karşılaştırmalı Jakoben Devrimler Matrisi (Fransız - Bolşevik - Kemalist)
 
+<p align="center">
+  <img src="assets/banners/jakoben_hukuk_ve_rejim.jpg" alt="İstiklal Mahkemeleri, Hukuk ve Jakoben Rejim" width="100%">
+</p>
+
 Modern tarihteki üç büyük radikal dönüşüm modelinin karşılaştırmalı analizi:
 
 | Karşılaştırma Ekseni | Fransız Devrimi (1789-1794) | Bolşevik Devrimi (1917-1924) | Kemalist Devrim (1919-1938) |
@@ -237,6 +241,10 @@ Kemalist Jakobenizmin dini dönüştürme projesi, yalnızca kurumları lağvetm
 ---
 
 ### 5.5. Üniversite ve Zihniyet İnşası: 1933 Üniversite Reformu ve Müderris Tasfiyeleri
+
+<p align="center">
+  <img src="assets/banners/jakoben_kulturel_aydinlanma.jpg" alt="Harf İnkılabı, Maarif ve Kültürel Aydınlanma" width="100%">
+</p>
 
 Aydınlanmanın zihniyet altyapısını kurmak için geleneksel yükseköğretim kurumu tasfiye edildi:
 
@@ -427,6 +435,10 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 ---
 
 ## ⏳ Tarihsel Kırılma Kronolojisi (1919 – 1938)
+
+<p align="center">
+  <img src="assets/banners/jakoben_birincil_belgeler.jpg" alt="TBMM Gizli Celse Zabıtları ve Birincil Arşiv Belgeleri" width="100%">
+</p>
 
 ```text
 [1919-1922] ─── Millî Mücadele ve Çoğulcu Birinci Meclis Dönemi
