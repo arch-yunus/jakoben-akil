@@ -196,6 +196,10 @@ Erken Cumhuriyet'in en kritik iç güvenlik ve modernleşme problemi, çok-etnil
 
 ### 5.2. Ekonomi-Politik: İzmir İktisat Kongresi'nden Devletçilik ve "Milli Burjuvazi" Teşekkülüne
 
+<p align="center">
+  <img src="assets/banners/jakoben_iktisat_ve_sanayi.jpg" alt="Devletçilik, Sümerbank ve Milli Sanayi Hamlesi" width="100%">
+</p>
+
 Kemalist modernleşmenin iktisat vizyonu, bağımsız bir milli ekonomi inşa etme hedefiyle şekillendi:
 
 * **1923 İzmir İktisat Kongresi ve Liberal Dönem (1923-1929):** Kongre, yabancı sermayeye açık, özel mülkiyeti tanıyan fakat gayrimüslim tekelini kırmayı amaçlayan "Misak-ı İktisadi"yi kabul etti. Aşar vergisinin kaldırılması (1925) köylüyü rahatlattı fakat tarımda köklü bir toprak reformu yapılmasını engelledi.
@@ -211,6 +215,10 @@ Kemalist modernleşmenin iktisat vizyonu, bağımsız bir milli ekonomi inşa et
 ---
 
 ### 5.3. Kadın, Beden ve Aile Siyaseti: "Devlet Feminizmi" mi, Bireysel Özgürleşme mi?
+
+<p align="center">
+  <img src="assets/banners/jakoben_kadin_ve_modernlesme.jpg" alt="Kadın Hakları, Seçme-Seçilme ve Cumhuriyet Modernleşmesi" width="100%">
+</p>
 
 Kemalist inkılabın en çok övülen boyutu kadın haklarıdır; ancak feminist ve sosyolojik tarihçilik bu süreci farklı bir analize tabi tutar:
 
@@ -262,6 +270,10 @@ Aydınlanmanın zihniyet altyapısını kurmak için geleneksel yükseköğretim
 ---
 
 ### 5.6. Dış Politika ve Jeopolitik Realizm: "Yurtta Sulh, Cihanda Sulh" Dekonstrüksiyonu
+
+<p align="center">
+  <img src="assets/banners/jakoben_dis_politika_ve_montro.jpg" alt="Dış Politika, Montrö Boğazlar Sözleşmesi ve Jeopolitik Realizm" width="100%">
+</p>
 
 Mustafa Kemal Atatürk'ün dış politika stratejisi romantik bir pasifizm değil, içerideki radikal dönüşümü dış tehditlerden korumayı hedefleyen soğukkanlı bir realizmdir:
 
@@ -330,6 +342,10 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 ---
 
 ### 3. İslami, Gelenekçi ve Muhafazakâr Düşünürler
+
+<p align="center">
+  <img src="assets/banners/jakoben_tefekkur_ve_muhafazakar.jpg" alt="İslami ve Muhafazakâr Düşünce, Hafıza ve Gelenek" width="100%">
+</p>
 
 > *"Zulmü alkışlayamam, zâlimi asla sevemem;  
 > Gelenin keyfi için geçmişe kalkıp sövemem.  
@@ -482,6 +498,10 @@ Aşağıdaki metinler, dönemin karar vericileri, meclis içi muhalifleri, İsla
 ---
 
 ## 📚 Kapsamlı Akademik Bibliyografya
+
+<p align="center">
+  <img src="assets/banners/jakoben_akademik_bibliyografya.jpg" alt="Akademik Araştırma, Karşılaştırmalı Tarih ve Bibliyografya" width="100%">
+</p>
 
 ### Birincil Belgeler, Arşivler ve Zabıtlar
 * **TBMM Zabıt Cerideleri ve Gizli Celse Tutanakları** (1920–1938), TBMM Kütüphane ve Arşiv Hizmetleri.
