@@ -51,11 +51,17 @@ Bu dizin, Türkiye Cumhuriyeti'nin kuruluş felsefesini, devrimci dönüşümün
 * **Temel Argüman:** İnkılaplar organik bir gelişim değil; milletin bin yıllık tarihi, manevi omurgası ve İslam medeniyetiyle bağını bir gecede koparan kültürel bir giyotindir. Merkez (askeri bürokrasi), çevreyi (Anadolu halkı) tahakküm altına almıştır.
 * **Başlıca Dosyalar ve İsimler:**
   - [Mehmet Âkif Ersoy](muhafazakar-ve-islamci/mehmet-akif-ersoy.md) (*Sebilürreşad*, Mısır İnzivası ve Meâl Krizi)
-  - [Necip Fazıl Kısakürek](muhafazakar-ve-islamci/necip-fazil-kisakurek.md) (*Büyük Doğu* ve *Son Devrin Din Mazlumları*)
-  - [Bediüzzaman Said Nursi](muhafazakar-ve-islamci/said-nursi.md) (Pozitivizm Eleştirisi ve Risale-i Nur Hareketi)
-  - [Ahmet Hamdi Tanpınar](muhafazakar-ve-islamci/ahmet-hamdi-tanpinar.md) (*Saatleri Ayarlama Enstitüsü* ve Kültürel İkilem)
+  - [Necip Fazıl Kısakürek](muhafazakar-ve-islamci/necip-fazil-kisakurek.md) (*Büyük Doğu*, Zindanlar ve *Son Devrin Din Mazlumları*)
+  - [Bediüzzaman Said Nursi](muhafazakar-ve-islamci/said-nursi.md) (TBMM Teması, Pozitivizm Eleştirisi ve Risale-i Nur)
+  - [Cemil Meriç](muhafazakar-ve-islamci/cemil-meric.md) (*Bu Ülke*, Kültürel İntihar ve Müstağrip Aydın Eleştirisi)
+  - [Prof. Dr. Nurettin Topçu](muhafazakar-ve-islamci/nurettin-topcu.md) (*İsyan Ahlakı*, Anadolu Sosyalizmi ve Maarif Davası)
+  - [Ord. Prof. Dr. Ali Fuad Başgil](muhafazakar-ve-islamci/ali-fuad-basgil.md) (*Din ve Laiklik*, Vicdan Hürriyeti ve Anayasa Hukuku)
+  - [Ahmet Hamdi Tanpınar](muhafazakar-ve-islamci/ahmet-hamdi-tanpinar.md) (*Saatleri Ayarlama Enstitüsü* ve Mazi-Hal Bunalımı)
   - [Prof. Dr. Şerif Mardin](muhafazakar-ve-islamci/serif-mardin.md) (Merkez-Çevre Kuramı ve Din Sosyolojisi)
-* **Anahtar Kavramlar:** Hafıza kırımı, Yabancılaşma, Merkez-Çevre teorisi, Saatleri Ayarlama ironisi, Maneviyat.
+  - [Elmalılı M. Hamdi Yazır](muhafazakar-ve-islamci/elmalili-hamdi-yazir.md) (*Hak Dini Kur'an Dili*, Fıkıh ve İbadet Dili)
+  - [Eşref Edip Fergan](muhafazakar-ve-islamci/esref-edip-fergan.md) (*Sebilürreşad*, İstiklal Mahkemesi ve Matbuat Direnişi)
+  - [Mustafa Sabri Efendi](muhafazakar-ve-islamci/mustafa-sabri-efendi.md) (Son Şeyhülislam, Hilafet ve Laiklik Reddiyesi)
+* **Anahtar Kavramlar:** Hafıza kırımı, Yabancılaşma, Merkez-Çevre teorisi, Saatleri Ayarlama ironisi, Maneviyat, Fıkıh meşruiyeti.
 
 ---
 
